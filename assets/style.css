@@ -1,0 +1,24 @@
+.carousel 
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    display: block;
+    width: 65vw; 
+    margin-bottom: 4vh;
+}
+
+h3
+{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.post {
+    border-radius: 3vw;
+    cursor: pointer;
+}
+
+#extra h2 
+{
+    margin-bottom: 4vh;
+}
